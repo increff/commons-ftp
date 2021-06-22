@@ -135,9 +135,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/increff/commons-lang.git</connection>
-        <developerConnection>scm:git:git@github.com:increff/commons-lang.git</developerConnection>
-        <url>https://github.com/increff/commons-lang</url>
+        <connection>scm:git:git://github.com/increff/commons-ftp.git</connection>
+        <developerConnection>scm:git:git@github.com:increff/commons-ftp.git</developerConnection>
+        <url>https://github.com/increff/commons-ftp</url>
         <tag>HEAD</tag>
     </scm>
 
